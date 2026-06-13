@@ -1,0 +1,27 @@
+{
+  "name": "Grocery List Pro",
+  "short_name": "Grocery",
+  "description": "Smart shopping lists with categories and totals.",
+  "start_url": "/grocery-list-pro/",
+  "scope": "/grocery-list-pro/",
+  "display": "standalone",
+  "background_color": "#0a0800",
+  "theme_color": "#f97316",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/grocery-list-pro/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/grocery-list-pro/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
